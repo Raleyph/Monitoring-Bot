@@ -1,0 +1,2 @@
+tg_token = '1348869076:AAEkWZ5gEJl8sB7uMfWGvKCie6YTZFRTHxo'
+owm_token = 'a99967bc9ee70d5b4bd387902982f400'
